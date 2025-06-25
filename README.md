@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Q7mHP85s/Navy-Blue-Geometric-Technology-Linked-In-Banner-20250625-121847-0000.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/p6xB4wTX/Whats-App-Image-2025-06-25-at-15-23-56-11c9dd97.jpg" alt="Banner" width="100%" />
 </p>
 
 
@@ -123,3 +123,4 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight" width="60%" alt="Top Languages" />
 </p>
+
