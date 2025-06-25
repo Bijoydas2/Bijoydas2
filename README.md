@@ -65,9 +65,9 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 
 <p align="center" style="margin-top: 10px;">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="bijoydas5680@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:bijoydas5680@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Bijoydas2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="[https://facebook.com/your-profile](https://www.facebook.com/bijoy.d.l.2024)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/bijoy.d.l.2024" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 ---
@@ -82,9 +82,9 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 
 ### 📚 Currently Learning
 
-- *Pro MERN Stack* by Vasan Subramanian  
-- *Mastering React* course on Udemy  
-- Firebase official docs & tutorials  
+<marquee behavior="scroll" direction="left" scrollamount="6" style="background:#f0f4f8; padding:10px; border-radius:5px; color:#0366d6; font-weight:bold;">
+  Pro MERN Stack • Mastering React • Firebase official docs & tutorials • Next.js • TypeScript
+</marquee>
 
 ---
 
@@ -104,9 +104,9 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 
 ### ⚡ Fun Facts
 
-- Coffee lover ☕  
-- Hiking enthusiast 🥾  
-- Always learning new tech 🔥  
+<marquee behavior="scroll" direction="right" scrollamount="5" style="background:#e0f7fa; padding:10px; border-radius:5px; color:#00796b; font-weight:bold;">
+  Coffee lover ☕ • Hiking enthusiast 🥾 • Always learning new tech 🔥
+</marquee>
 
 ---
 
@@ -128,8 +128,6 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
   <img src="https://github-streak-stats.demolab.com?user=Bijoydas2&theme=tokyonight" width="60%" alt="GitHub Streak" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight" width="60%" alt="Top Languages" />
 </p>
-v
