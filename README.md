@@ -116,7 +116,7 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bijoydas2&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight&langs_count=8" width="45%" />
 </p>
 
 <p align="center">
