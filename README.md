@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Q7mHP85s/Navy-Blue-Geometric-Technology-Linked-In-Banner-20250625-121847-0000.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/XfRzCd82/Navy-Blue-Geometric-Technology-Linked-In-Banner-20250625-123324-0000.png" alt="Banner" width="100%" />
 </p>
 
 
