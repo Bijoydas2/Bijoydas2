@@ -3,10 +3,6 @@
   <img src="https://i.ibb.co/Q7mHP85s/Navy-Blue-Geometric-Technology-Linked-In-Banner-20250625-121847-0000.png" alt="Banner" width="100%" />
 </p>
 
-<!-- Lottie-style GIF Animation -->
-<p align="center" style="margin-top: -30px; margin-bottom: 20px;">
-  <img src="https://lottie.host/26e31f56-8d25-4a8f-92d1-2c87d8b0cde4/BfBoWfGns1.gif" width="180" alt="Developer Animation" />
-</p>
 
 <!-- Name and Title -->
 <h1 align="center" style="margin-bottom: 0;">Hi 👋, I'm Bijoy Das</h1>
