@@ -118,6 +118,8 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bijoydas2&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight&langs_count=8" width="48%" />
+ 
 </p>
-
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight&langs_count=8" width="48%" />
+</p>
