@@ -1,56 +1,130 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" style="border-radius: 12px" />
+  <img src="https://i.ibb.co/k5mr2XK/dev-banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- Name and Designation -->
-<h1 align="center" style="font-weight: 700; font-size: 3rem; margin-top: 0.5rem;">Bijoy Das</h1>
-<h3 align="center" style="color: #6c757d; margin-top: 0; font-weight: 500;">MERN Stack Developer | Web Enthusiast</h3>
+<!-- Lottie-style GIF Animation -->
+<p align="center" style="margin-top: -30px; margin-bottom: 20px;">
+  <img src="https://lottie.host/26e31f56-8d25-4a8f-92d1-2c87d8b0cde4/BfBoWfGns1.gif" width="180" alt="Developer Animation" />
+</p>
+
+<!-- Name and Title -->
+<h1 align="center" style="margin-bottom: 0;">Hi 👋, I'm Bijoy Das</h1>
+<h3 align="center" style="margin-top: 5px; color: #6c757d;">MERN Stack Web Developer | Passionate About Full Stack Development</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I am passionate about building modern, responsive, and user-friendly web applications using the MERN stack and related technologies.  
-I love solving problems and continuously learning new tools and frameworks.
+I am a passionate MERN Stack developer who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies and turning ideas into real-world solutions through clean and scalable code.
 
 ---
 
-### 🔥 Current Focus & Projects
+### 🎯 Current Focus
 
-- 🌱 Exploring **Next.js** and **TypeScript**  
-- 🏝️ Developing a **Tourism website** with React & Node.js  
-- 🛠️ Enhancing backend performance with **Express.js** and **MongoDB**  
-- 🔐 Implementing **Firebase Authentication** & **Admin SDK**
+- 🚀 Building: **Feature-rich tourism website** using MERN stack  
+- 📚 Learning: **Next.js**, **TypeScript**, and **Firebase Admin SDK**  
+- ⚙️ Improving: Backend API optimization & MongoDB schema design  
+- 🔐 Exploring: Authentication flows and serverless functions  
 
 ---
 
-### 💡 Skills & Technologies
+### 🛠️ Tech Stack & Tools (Animated Icons)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,vscode,redux,bootstrap,nextjs" />
+#### 💻 Frontend  
+<p align="left">
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.gif" width="40" />
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.gif" width="40" />
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.gif" width="40" />
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.gif" width="40" />
+  <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
+  <img alt="Tailwind CSS" src="https://tailwindcss.com/_next/static/media/twitter-square.1a566a05.svg" width="40" />
+</p>
+
+#### 🔧 Backend  
+<p align="left">
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.gif" width="40" />
+  <img alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.gif" width="40" />
+  <img alt="Mongoose" src="https://avatars.githubusercontent.com/u/7554243?s=200&v=4" width="40" />
+  <img alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.gif" width="40" />
+</p>
+
+#### ⚙️ Tools & Others  
+<p align="left">
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.gif" width="40" />
+  <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.gif" width="40" />
+  <img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.gif" width="40" />
+  <img alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.gif" width="40" />
+  <img alt="Netlify" src="https://avatars.githubusercontent.com/u/7505861?s=200&v=4" width="40" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
-<p align="center">
+<p align="center" style="margin-top: 10px;">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/Bijoydas2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://facebook.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Projects
+
+- [Tourism Website](https://github.com/Bijoydas2/tourism-website) — A full-featured tourism platform built with MERN stack  
+- [Job Portal](https://github.com/Bijoydas2/job-portal) — A job listing app with Firebase authentication and real-time updates  
+- [Recipe App](https://github.com/Bijoydas2/recipe-app) — A React app for browsing and saving recipes with MongoDB backend  
+
+---
+
+### 📚 Currently Learning
+
+- *Pro MERN Stack* by Vasan Subramanian  
+- *Mastering React* course on Udemy  
+- Firebase official docs & tutorials  
+
+---
+
+### 💬 Favorite Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+### 🎉 Achievements
+
+- AWS Certified Developer – Associate  
+- Winner, Local Hack Day 2024  
+- Completed Google JavaScript Challenge  
+
+---
+
+### ⚡ Fun Facts
+
+- Coffee lover ☕  
+- Hiking enthusiast 🥾  
+- Always learning new tech 🔥  
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bijoydas2&theme=tokyonight&column=6&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bijoydas2&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bijoydas2&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
