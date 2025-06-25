@@ -70,9 +70,9 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 
 ### 🚀 Projects
 
-- [Tourism Website](https://github.com/Bijoydas2/tourism-website) — A full-featured tourism platform built with MERN stack  
-- [Job Portal](https://github.com/Bijoydas2/job-portal) — A job listing app with Firebase authentication and real-time updates  
-- [Recipe App](https://github.com/Bijoydas2/recipe-app) — A React app for browsing and saving recipes with MongoDB backend  
+- [Toremate Website](https://package-booking-server.vercel.app) — A full-featured tourism platform built with MERN stack  
+- [Doctor Booking](https://doctor-details-2325.netlify.app) — A job listing app with Firebase authentication and real-time updates  
+- [Recipe App](https://recipe-book-app-auth.web.app/add-recipe) — A React app for browsing and saving recipes with MongoDB backend  
 
 ---
 
