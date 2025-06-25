@@ -125,8 +125,9 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bijoydas2&theme=tokyonight&hide_border=false" width="60%" alt="GitHub Streak" />
+  <img src="https://github-streak-stats.demolab.com?user=Bijoydas2&theme=tokyonight" width="60%" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight" width="60%" alt="Top Languages" />
