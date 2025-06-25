@@ -65,9 +65,9 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 
 <p align="center" style="margin-top: 10px;">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="bijoydas5680@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Bijoydas2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://facebook.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="[https://facebook.com/your-profile](https://www.facebook.com/bijoy.d.l.2024)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 ---
@@ -121,11 +121,14 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bijoydas2&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bijoydas2&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bijoydas2&show_icons=true&theme=tokyonight&count_private=true" width="60%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bijoydas2&theme=tokyonight&hide_border=false" width="60%" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoydas2&layout=compact&theme=tokyonight" width="60%" alt="Top Languages" />
+</p>
+v
