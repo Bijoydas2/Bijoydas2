@@ -28,8 +28,8 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 
 ### 🎯 Current Focus
 
-- 🚀 Building: **Feature-rich tourism website** using MERN stack  
-- 📚 Learning: **Next.js**, **TypeScript**, and **Firebase Admin SDK**  
+- 🚀 Building: **Feature-AI-Powered Note App (MERN + Gemini) 
+- 📚 Learning: **Next.js**, **TypeScript**, and **Firebase Admin SDK** (Programming Hero)
 - ⚙️ Improving: Backend API optimization & MongoDB schema design  
 - 🔐 Exploring: Authentication flows and serverless functions  
 
@@ -123,6 +123,5 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bijoydas2&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-👀-blue?style=for-the-badge" alt="Profile Views" />
 </p>
-
