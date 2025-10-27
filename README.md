@@ -70,8 +70,8 @@ I am a passionate MERN Stack developer who enjoys building modern, responsive, a
 ### 🚀 Projects
 
 - [Life Insurance Management Platform](https://life-insurance-app-client.vercel.app)  
-  A MERN-based insurance app with role-based dashboards (Admin, Agent, Customer), policy management, quote system, Stripe payments, blog/articles, PDF generation, and customer reviews.
--- [Ai-notes-power](https://ai-notes-client.vercel.app) A MERN stack note-taking app with AI (Gemini) integration that helps users create, summarize, suggest titles, organize, search, and export notes easily.
+  A MERN-based insurance app with role-based dashboards (Admin, Agent, Customer), policy management, quote system, Stripe payments, blog/articles, PDF generation, and customer reviews. 
+- [Ai-notes-power](https://ai-notes-client.vercel.app) A MERN stack note-taking app with AI (Gemini) integration that helps users create, summarize, suggest titles, organize, search, and export notes easily.
 - [Toremate Website](https://package-booking-server.vercel.app) — A full-featured tourism platform built with MERN stack  
 - [Recipe App](https://recipe-book-app-auth.web.app) — A React app for browsing and saving recipes with MongoDB backend  
 
